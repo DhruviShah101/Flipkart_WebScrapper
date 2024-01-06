@@ -19,9 +19,11 @@ Data extraction is the act of retrieving precise information or data from a sour
 Inside each enclosure: This function retrieves the product name, price, initial price (if available), discount (if available), ratings, and description by examining specific elements of the HTML structure. Processes and purifies the acquired data. Creates the data for every individual product and saves it in the CSV file.
 
 Terminating the CSV file: Terminates the CSV file once all the extracted data has been written.
+<img width="854" alt="1" src="https://github.com/DhruviShah101/Flipkart_WebScrapper/assets/124038034/50401ac8-5e1e-46ee-a07a-cc0b4b1e26c2">
 
-![Uploading 1.png…]()<img width="960" alt="2" src="https://github.com/DhruviShah101/Flipkart_WebScrapper/assets/124038034/836f4d![Uploading 3.png…]()
-0d-384d-4226-9f7b-a4a783c477b1">
+<img width="960" alt="2" src="https://github.com/DhruviShah101/Flipkart_WebScrapper/assets/124038034/cb6ebb24-7055-463c-8387-c00179e7f967">
+<img width="639" alt="3" src="https://github.com/DhruviShah101/Flipkart_WebScrapper/assets/124038034/e80d3e1f-83c6-4502-b23c-01c7094160c2">
+
 
 <img width="477" alt="4" src="https://github.com/DhruviShah101/Flipkart_WebScrapper/assets/124038034/8eb82ec8-0374-4a87-88b8-f242361b492a">
 
